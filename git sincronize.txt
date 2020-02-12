@@ -1,0 +1,4 @@
+git remote add upstream https://github.com/igorklopov/firebird-knex
+git fetch upstream
+git merge upstream/master
+
